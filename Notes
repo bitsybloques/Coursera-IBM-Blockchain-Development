@@ -1,0 +1,12 @@
+Blockchain
+	- concensus
+	- provenance: record 
+	- immutability: impossible to tamper blocks (hash pointers)
+	- finality: once something is commited, cannot be changed
+- selective endorsement over proof of work
+
+Requirements of blockchain for business:
+- shared ledger
+- smart contract
+- privacy
+- anonimity
